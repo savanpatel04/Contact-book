@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "51d84ce6-363b-4e4a-9d16-e420c72ff0a4",
+      "name": "Savan Desai",
+      "email": "savanbdesai@gmail.com"
+    },
+    {
+      "id": "686c8be2-1130-4cc0-8301-a83a4ff4e36c",
+      "name": "Paul",
+      "email": "Paul@gmail.com"
+    },
+    {
+      "id": "fa03ca99-f0b1-486c-b0b4-67b54af72e60",
+      "name": "Charley",
+      "email": "Charley@gmail.com"
+    }
+  ]
+}

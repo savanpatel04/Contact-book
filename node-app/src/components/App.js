@@ -18,7 +18,7 @@ function App() {
 
   // retrieveContacts
   const retrieveContacts = async () =>{
-    const res = await api.get("/contacts");
+    const response = await api.get("/contacts");
     return response.data;
 
   };
